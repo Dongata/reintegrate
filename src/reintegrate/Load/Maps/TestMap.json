@@ -1,0 +1,49 @@
+{
+  "Name": "TestMap",
+  "GroundLayer": {
+    "Tiles": [
+      {
+        "X": 0,
+        "Y": 0,
+        "Image": {
+          "Path": "Textures/Ground/Grass1"
+        }
+      },
+      {
+        "X": 1,
+        "Y": 0,
+        "Image": {
+          "Path": "Textures/Ground/Grass1"
+        }
+      },
+      {
+        "X": 1,
+        "Y": 1,
+        "Image": {
+          "Path": "Textures/Ground/Grass1"
+        }
+      },
+      {
+        "X": 0,
+        "Y": 1,
+        "Image": {
+          "Path": "Textures/Ground/Grass1"
+        }
+      },
+      {
+        "X": 2,
+        "Y": 0,
+        "Image": {
+          "Path": "Textures/Ground/Grass1"
+        }
+      },
+      {
+        "X": 2,
+        "Y": 1,
+        "Image": {
+          "Path": "Textures/Ground/Grass1"
+        }
+      }
+    ]
+  }
+}

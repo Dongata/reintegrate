@@ -1,0 +1,41 @@
+﻿{
+  "Axis": "Y",
+  "Items": [
+    {
+      "LinkType": "Screen",
+      "LinkId": "GameplayScreen",
+      "Image": {
+        "Text": "New Game",
+        "IntermitentFadeEffect": {
+          "FadeSpeed": 1.0
+        }
+      }
+    },
+    {
+      "LinkType": "Menu",
+      "LinkId": "Load/TitleMenu",
+      "Image": {
+        "Text": "Load Game",
+        "IntermitentFadeEffect": {
+          "FadeSpeed": 1.0
+        }
+      }
+    },
+    {
+      "Image": {
+        "Text": "Credits",
+        "IntermitentFadeEffect": {
+          "FadeSpeed": 1.0
+        }
+      }
+    },
+    {
+      "Image": {
+        "Text": "Exit",
+        "IntermitentFadeEffect": {
+          "FadeSpeed": 1.0
+        }
+      }
+    }
+  ]
+}

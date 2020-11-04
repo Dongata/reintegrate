@@ -1,0 +1,11 @@
+﻿{
+  "Image": {
+    "Path": "SplashScreen/Image",
+    "Alpha": 1,
+    "Scale": "1.1, 1.4",
+    "FadeEffect": {
+      "FadeSpeed": 0,
+      "Increase" : false
+    }
+  }
+}

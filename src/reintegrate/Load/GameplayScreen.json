@@ -1,0 +1,6 @@
+{
+  "DefaultMap": "TestMap",
+  "Maps": {
+    "TestMap": "Load/Maps/TestMap"
+  }
+}

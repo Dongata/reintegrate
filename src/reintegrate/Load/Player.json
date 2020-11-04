@@ -1,0 +1,743 @@
+{
+  "Image": {
+    "Path": "Player/player",
+    "SpriteSheetEffect": {
+      "CurrentState": "SpellCastLeft",
+      "Frames": {
+        "SpellCastBack": [
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 6,
+            "Y": 13,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 70,
+            "Y": 13,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 134,
+            "Y": 13,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 198,
+            "Y": 13,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 262,
+            "Y": 13,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 326,
+            "Y": 13,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 390,
+            "Y": 13,
+            "Switch": 192
+          }
+        ],
+        "SpellCastRight": [
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 6,
+            "Y": 77,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 70,
+            "Y": 77,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 134,
+            "Y": 77,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 198,
+            "Y": 77,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 262,
+            "Y": 77,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 326,
+            "Y": 77,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 390,
+            "Y": 77,
+            "Switch": 192
+          }
+        ],
+        "SpellCastFront": [
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 6,
+            "Y": 141,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 70,
+            "Y": 141,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 134,
+            "Y": 141,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 198,
+            "Y": 141,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 262,
+            "Y": 141,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 326,
+            "Y": 141,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 390,
+            "Y": 141,
+            "Switch": 192
+          }
+        ],
+        "SpellCastLeft": [
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 6,
+            "Y": 205,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 70,
+            "Y": 205,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 134,
+            "Y": 205,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 198,
+            "Y": 205,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 262,
+            "Y": 205,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 326,
+            "Y": 205,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 390,
+            "Y": 205,
+            "Switch": 192
+          }
+        ],
+        "ThrustBack": [
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 6,
+            "Y": 269,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 70,
+            "Y": 269,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 134,
+            "Y": 269,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 198,
+            "Y": 269,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 262,
+            "Y": 269,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 326,
+            "Y": 269,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 390,
+            "Y": 269,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 454,
+            "Y": 269,
+            "Switch": 192
+          }
+        ],
+        "ThrustRight": [
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 6,
+            "Y": 333,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 70,
+            "Y": 333,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 134,
+            "Y": 333,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 198,
+            "Y": 333,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 262,
+            "Y": 333,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 326,
+            "Y": 333,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 390,
+            "Y": 333,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 454,
+            "Y": 333,
+            "Switch": 192
+          }
+        ],
+        "ThrustFront": [
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 6,
+            "Y": 397,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 70,
+            "Y": 397,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 134,
+            "Y": 397,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 198,
+            "Y": 397,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 262,
+            "Y": 397,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 326,
+            "Y": 397,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 390,
+            "Y": 397,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 454,
+            "Y": 397,
+            "Switch": 192
+          }
+        ],
+        "ThrustLeft": [
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 6,
+            "Y": 461,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 70,
+            "Y": 461,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 134,
+            "Y": 461,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 198,
+            "Y": 461,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 262,
+            "Y": 461,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 326,
+            "Y": 461,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 390,
+            "Y": 461,
+            "Switch": 192
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 454,
+            "Y": 461,
+            "Switch": 192
+          }
+        ],
+        "WalkBack": [
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 6,
+            "Y": 525,
+            "Switch": 96
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 70,
+            "Y": 525,
+            "Switch": 96
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 134,
+            "Y": 525,
+            "Switch": 96
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 198,
+            "Y": 525,
+            "Switch": 96
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 262,
+            "Y": 525,
+            "Switch": 96
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 326,
+            "Y": 525,
+            "Switch": 96
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 390,
+            "Y": 525,
+            "Switch": 96
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 454,
+            "Y": 525,
+            "Switch": 96
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 518,
+            "Y": 525,
+            "Switch": 96
+          }
+        ],
+        "WalkRight": [
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 6,
+            "Y": 589,
+            "Switch": 96
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 70,
+            "Y": 589,
+            "Switch": 96
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 134,
+            "Y": 589,
+            "Switch": 96
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 198,
+            "Y": 589,
+            "Switch": 96
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 262,
+            "Y": 589,
+            "Switch": 96
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 326,
+            "Y": 589,
+            "Switch": 96
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 390,
+            "Y": 589,
+            "Switch": 96
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 454,
+            "Y": 589,
+            "Switch": 96
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 518,
+            "Y": 589,
+            "Switch": 96
+          }
+        ],
+        "WalkFront": [
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 6,
+            "Y": 653,
+            "Switch": 96
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 70,
+            "Y": 653,
+            "Switch": 96
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 134,
+            "Y": 653,
+            "Switch": 96
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 198,
+            "Y": 653,
+            "Switch": 96
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 262,
+            "Y": 653,
+            "Switch": 96
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 326,
+            "Y": 653,
+            "Switch": 96
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 390,
+            "Y": 653,
+            "Switch": 96
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 454,
+            "Y": 653,
+            "Switch": 96
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 518,
+            "Y": 653,
+            "Switch": 96
+          }
+        ],
+        "WalkLeft": [
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 6,
+            "Y": 717,
+            "Switch": 96
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 70,
+            "Y": 717,
+            "Switch": 96
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 134,
+            "Y": 717,
+            "Switch": 96
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 198,
+            "Y": 717,
+            "Switch": 96
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 262,
+            "Y": 717,
+            "Switch": 96
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 326,
+            "Y": 717,
+            "Switch": 96
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 390,
+            "Y": 717,
+            "Switch": 96
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 454,
+            "Y": 717,
+            "Switch": 96
+          },
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 518,
+            "Y": 717,
+            "Switch": 96
+          }
+        ],
+        "IdleBack": [
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 6,
+            "Y": 525,
+            "Switch": 96
+          }
+        ],
+        "IdleRight": [
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 6,
+            "Y": 589,
+            "Switch": 96
+          }
+        ],
+        "IdleFront": [
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 6,
+            "Y": 653,
+            "Switch": 96
+          }
+        ],
+        "IdleLeft": [
+          {
+            "Width": 52,
+            "Heigth": 52,
+            "X": 6,
+            "Y": 717,
+            "Switch": 96
+          }
+        ]
+      }
+    }
+  },
+  "MovementSpeed": 192
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Dimensions": "640, 480",
+  "Transition": {
+    "Image": {
+      "Path": "ScreenManager/BlackDot",
+      "Alpha": 0,
+      "FadeEffect": {
+        "FadeSpeed": 2,
+        "Increase": true
+      }
+    }
+  }
+}
